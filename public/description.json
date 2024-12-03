@@ -1,0 +1,522 @@
+{
+  "anime": [
+    {
+      "id": 1,
+      "nom": "Spirited Away",
+      "réalisateur": "Hayao Miyazaki",
+      "date_de_sortie": "20 juillet 2001",
+      "type": "anime",
+      "description": "(original title: Sen to Chihiro no Kamikakushi) is a Japanese animated film directed by Hayao Miyazaki. It tells the story of Chihiro, a young girl who finds herself in a magical world and must work in an inn for spirits in order to save her parents, who have been turned into pigs. The film was released on 20 July 2001."
+    },
+    {
+      "id": 2,
+      "nom": "Lilo and Stitch",
+      "réalisateur": "Dean DeBlois et Chris Sanders",
+      "date_de_sortie": "21 juin 2002",
+      "type": "anime",
+      "description": "Lilo & Stitch is an American animated film by Disney, released on 21 June 2002. It tells the story of Lilo, a young Hawaiian girl, who adopts an alien named Stitch, created to be a weapon of destruction. Together, they form an unusual family and face many adventures."
+    },
+    {
+      "id": 3,
+      "nom": "Tangled",
+      "réalisateur": "Nathan Greno et Byron Howard",
+      "date_de_sortie": "24 novembre 2010",
+      "type": "anime",
+      "description": "is an animated Disney film released on 24 November 2010. It tells the story of Rapunzel, a princess with long magical hair, who escapes from her isolated tower with the help of a thief, Flynn Rider. Together they set off on an adventure to discover the outside world."
+    },
+    {
+      "id": 4,
+      "nom": "Ratatouille",
+      "réalisateur": "Brad Bird",
+      "date_de_sortie": "29 juin 2007",
+      "type": "anime",
+      "description": "Ratatouille is an animated film by Pixar, released on 29 June 2007. It tells the story of Rémy, a rat with a passion for cooking, who dreams of becoming a chef in Paris. With the help of a young chef called Linguini, he sets out to make his dream come true, overcoming many obstacles in the process."
+    },
+    {
+      "id": 5,
+      "nom": "A monster in Paris",
+      "réalisateur": "Bibo Bergeron",
+      "date_de_sortie": "29 septembre 2011",
+      "type": "anime",
+      "description": "French anime released on 29 September 2011. The story takes place in Paris in 1910, where a monster, accidentally created by a scientist, becomes a hero after saving the city from disaster. The monster, nicknamed Francoeur, is a giant insect with a tender heart, and the story follows his adventures with a young woman, Lucille, and her friends."
+    },
+    {
+      "id": 6,
+      "nom": "Zootopia",
+      "réalisateur": "Byron Howard et Rich Moore",
+      "date_de_sortie": "17 février 2016",
+      "type": "anime",
+      "description": "Zootopie is an animated film by Disney, released on 17 February 2016. A police bunny, Judy, and a swindling fox, Nick, investigate a disappearance in a town populated by animals. They confront prejudices and discover secrets."
+    },
+    {
+      "id": 7,
+      "nom": "Atlantis",
+      "réalisateur": "Gary Trousdale, Kirk Wise",
+      "date_de_sortie": "3 juin 2001",
+      "type": "anime",
+      "description": "Atlantis, the Lost Empire is a Disney animated film released on 3 June 2001. It follows Milo Thatch, a young linguist, who sets off on an expedition to find the legendary lost city of Atlantis. Accompanied by a motley crew, he discovers an ancient and mysterious world."
+    },
+    {
+      "id": 8,
+      "nom": "Aladdin",
+      "réalisateur": "Ron Clements, John Musker",
+      "date_de_sortie": "25 novembre 1992",
+      "type": "anime",
+      "description": "Aladdin is a Disney animated film released on 25 November 1992. It tells the story of Aladdin, a poor young man who discovers a magic lamp containing a wish-granting genie. With the help of the genie and his friends, he sets out to win the heart of Princess Jasmine and save the kingdom from the evil Jafar."
+    },
+    {
+      "id": 9,
+      "nom": "KIRIKOU",
+      "réalisateur": "Michel Ocelot",
+      "date_de_sortie": "29 novembre 1998",
+      "type": "anime",
+      "description": "Kirikou and the Witch is a French animated film released on 29 November 1998. It tells the story of Kirikou, an extraordinary little boy born in an African village, who sets out to confront the witch Karaba, who is responsible for the misfortunes of his people. Despite his tiny size, Kirikou shows courage and wisdom to save his village."
+    },
+    {
+      "id": 10,
+      "nom": "Azur and Asmar",
+      "réalisateur": "Michel Ocelot",
+      "date_de_sortie": "6 décembre 2006",
+      "type": "anime",
+      "description": "Azur et Asmar is a French animated film directed by Michel Ocelot, released on 6 December 2006. It tells the story of two boys, Azur, a child from a noble family, and Asmar, the nanny's son, who grow up together before being separated. As adults, they set off in search of the jinn fairy, an adventure that leads them to overcome their differences and forge bonds of friendship."
+    },
+    {
+      "id": 11,
+      "nom": "One Piece",
+      "réalisateur": "Kônosuke Uda, Munehisa Sakai",
+      "date_de_sortie": "20 octobre 1999",
+      "type": "anime",
+      "description": "One Piece is a Japanese animated series based on the manga by Eiichiro Oda, first broadcast in 1999. It follows the adventures of Monkey D. Luffy, a young pirate whose dream is to find the legendary One Piece treasure and become King of the Pirates. Luffy and his crew travel the world, battling enemies and discovering mysterious islands.",
+      "nb_saisons": 25,
+      "nb_episodes": 1070
+    },
+    {
+      "id": 12,
+      "nom": "Mulan",
+      "réalisateur": "Tony Bancroft, Barry Cook",
+      "date_de_sortie": "19 juin 1998",
+      "type": "anime",
+      "description": "Mulan is a Disney animated film released on 19 June 1998. It tells the story of Mulan, a young Chinese woman who, to save her father, disguises herself as a man and joins the Imperial Army. She fights bravely and proves that true heroism depends not on gender, but on the heart."
+    },
+    {
+      "id": 13,
+      "nom": "The Simpsons",
+      "réalisateur": "Matt Groening",
+      "date_de_sortie": "17 décembre 1989",
+      "type": "anime",
+      "description": "The Simpsons is an American animated television series created by Matt Groening, broadcast since 1989. It follows the lives of the Simpson family - Homer, Marge, Bart, Lisa and Maggie - in the fictional town of Springfield. The series is a satire of American society, tackling themes such as family, politics and popular culture.",
+      "nb_saisons": 36,
+      "nb_episodes": 800
+    },
+    {
+      "id": 14,
+      "nom": "Goldorak",
+      "réalisateur": "Gō Nagai",
+      "date_de_sortie": "5 octobre 1975",
+      "type": "anime",
+      "description": "Goldorak (original title: UFO Robo Grendizer) is a Japanese animated series first broadcast in 1975. It tells the story of Actarus, an extraterrestrial prince who pilots the giant robot Goldorak to defend the Earth against the invasions of the Vega empire. The series, a blend of science fiction and action, left its mark on the 70s and 80s, particularly in France.",
+      "nb_saisons": 1,
+      "nb_episodes": 74
+    },
+    {
+      "id": 15,
+      "nom": "Totally Spies!",
+      "réalisateur": "David Michel, Vincent Chalvon-Demersay",
+      "date_de_sortie": "3 novembre 2001",
+      "type": "anime",
+      "description": "Totally Spies! (2001) follows three teenage girls, Clover, Sam and Alex, who are spies for a secret organisation while leading normal school lives. Far from ordinary, they fight villains on thrilling missions.",
+      "nb_saisons": 6,
+      "nb_episodes": 156
+    },
+    {
+      "id": 16,
+      "nom": "Oggy and the Cockroaches",
+      "réalisateur": "Jean-Yves Raimbaud",
+      "date_de_sortie": "6 septembre 1998",
+      "type": "anime",
+      "description": "Oggy et les Cafards is a French animated series first broadcast in 1998. It recounts the adventures of Oggy, a lazy cat, and his three enemies, the cockroaches Joey, Dee Dee and Marky, who are always causing him trouble. The series is known for its visual humour and slapstick, dialogue-free gags.",
+      "nb_saisons": 10,
+      "nb_episodes": 400
+    }
+  ],
+  "serie_film": [
+    {
+      "id": 17,
+      "nom": "Game of Thrones",
+      "réalisateur": "David Benioff, D.B. Weiss",
+      "date_de_sortie": "17 avril 2011",
+      "type": "serie",
+      "description": "Game of Thrones is a medieval-fantasy drama series, based on the novels by George R.R. Martin, in which several noble families battle for the Iron Throne. It was broadcast on HBO from 2011 to 2019.",
+      "nb_saisons": 8,
+      "nb_episodes": 73
+    },
+    {
+      "id": 18,
+      "nom": "Bridgerton",
+      "réalisateur": "Chris Van Dusen",
+      "date_de_sortie": "25 décembre 2020",
+      "type": "serie",
+      "description": "Bridgerton is a romantic drama series based on the novels by Julia Quinn. It follows the love intrigues and rivalries of London's high society in the early 19th century, with a mix of romance, scandal and secrets. The series launched on Netflix on 25 December 2020.",
+      "nb_saisons": 3,
+      "nb_episodes": 24
+    },
+    {
+      "id": 19,
+      "nom": "FRIENDS",
+      "réalisateur": "David Crane, Marta Kauffman",
+      "date_de_sortie": "22 septembre 1994",
+      "type": "serie",
+      "description": "Friends is an American sitcom that follows the lives of six friends - Rachel, Ross, Monica, Chandler, Joey and Phoebe - in New York, covering their friendships, relationships and day-to-day adventures. Broadcast from 1994 to 2004, it has become one of the most popular and iconic series on television.",
+      "nb_saisons": 10,
+      "nb_episodes": 236
+    },
+    {
+      "id": 20,
+      "nom": "Prison Break",
+      "réalisateur": "Paul Scheuring",
+      "date_de_sortie": "29 août 2005",
+      "type": "serie",
+      "description": "Prison Break is a drama series that tells the story of Michael Scofield, who devises a complex plan to break out his brother Lincoln Burrows, wrongly sentenced to death. The series is a mix of suspense, action and thriller, with plots revolving around justice and redemption. It ran from 2005 to 2009, and then resumed for a fifth season in 2017.",
+      "nb_saisons": 5,
+      "nb_episodes": 90
+    },
+    {
+      "id": 21,
+      "nom": "OUTER BANKS",
+      "réalisateur": "Jonas Pate, Josh Pate, Shannon Burke",
+      "date_de_sortie": "15 avril 2020",
+      "type": "serie",
+      "description": "Outer Banks is an adventure mystery series that follows a group of teenagers, the ‘Pogues’, in the Outer Banks of North Carolina. They embark on a treasure hunt linked to the disappearance of the father of one of the members and discover family secrets and conspiracies. The series, a mix of action, romance and suspense, launched on Netflix on 15 April 2020.",
+      "nb_saisons": 3,
+      "nb_episodes": 30
+    },
+    {
+      "id": 22,
+      "nom": "Breaking Bad",
+      "réalisateur": "Vince Gilligan",
+      "date_de_sortie": "20 janvier 2008",
+      "type": "serie",
+      "description": "Breaking Bad (2008-2013) tells the story of Walter White, a chemistry teacher who becomes a methamphetamine manufacturer after suffering from cancer. The series follows his descent into crime.",
+      "nb_saisons": 5,
+      "nb_episodes": 62
+    },
+    {
+      "id": 23,
+      "nom": "Malcolm in the Middle",
+      "réalisateur": "Linwood Boomer",
+      "date_de_sortie": "9 janvier 2000",
+      "type": "serie",
+      "description": "Malcolm in the Middle (2000-2006) is an American comedy series that follows the life of a dysfunctional family. Malcolm, a gifted teenager, navigates the challenges of school and home life, surrounded by his brothers, eccentric parents and chaotic environment. The series is known for its offbeat humour, endearing characters and unique take on family dynamics.",
+      "nb_saisons": 7,
+      "nb_episodes": 151
+    },
+    {
+      "id": 24,
+      "nom": "My Wife and Kids",
+      "réalisateur": "Don Reo, Damon Wayans",
+      "date_de_sortie": "28 mars 2001",
+      "type": "serie",
+      "description": "My Wife and Kids is an American sitcom that ran from 2001 to 2005. It follows Michael Kyle, a slightly eccentric family man, who tries to maintain order and handle comic situations with his wife Jay and their three children. The series tackles the day-to-day challenges of family life with humour and lightness, focusing on family values and love.",
+      "nb_saisons": 5,
+      "nb_episodes": 123
+    },
+    {
+      "id": 25,
+      "nom": "Charmed",
+      "réalisateur": "Constance M. Burge",
+      "date_de_sortie": "7 octobre 1998",
+      "type": "serie",
+      "description": "1998-2006 American fantasy series following the Halliwell sisters, three women with magical powers. They discover that they are the ‘Powers of Three’, destined to protect the world from the forces of evil. Each of the sisters possesses a unique power, and together they battle demons and other supernatural creatures, while juggling their personal lives. The series combines magic, adventure and family drama.",
+      "nb_saisons": 8,
+      "nb_episodes": 178
+    },
+    {
+      "id": 26,
+      "nom": "Elite",
+      "réalisateur": "Carlos Montero, Darío Madrona",
+      "date_de_sortie": "5 octobre 2018",
+      "type": "serie",
+      "description": "Elite is a Spanish series launched on 5 October 2018. It follows a group of teenagers from different social backgrounds enrolled at a private high school in Madrid. The plot focuses on their complex relationships, secrets and a murder that turns the school upside down. The series explores themes such as social class, love, betrayal and crime, with a mix of suspense and drama.",
+      "nb_saisons": 7,
+      "nb_episodes": 65
+    },
+    {
+      "id": 27,
+      "nom": "Jessie",
+      "réalisateur": "Pamela Eells O'Connell",
+      "date_de_sortie": "30 septembre 2011",
+      "type": "serie",
+      "description": "Jessie is an American television series broadcast from 2011 to 2015 on Disney Channel. It follows Jessie Prescott, a young woman from Texas who moves to New York to become a nanny for a wealthy family. She looks after four children, each with their own personality, while dealing with the comical and unexpected situations of city life. The series combines humour, adventure and family values.",
+      "nb_saisons": 4,
+      "nb_episodes": 98
+    },
+    {
+      "id": 28,
+      "nom": "Grey's Anatomy",
+      "réalisateur": "Shonda Rhimes",
+      "date_de_sortie": "27 mars 2005",
+      "type": "serie",
+      "description": "Grey's Anatomy (since 2005) is a medical series that follows Meredith Grey and her fellow surgeons at Seattle Grace Hospital. The series blends professional life, personal relationships and emotional drama.",
+      "nb_saisons": 20,
+      "nb_episodes": 418
+    },
+    {
+      "id": 29,
+      "nom": "Riverdale",
+      "réalisateur": "Roberto Aguirre-Sacasa",
+      "date_de_sortie": "26 janvier 2017",
+      "type": "serie",
+      "description": "Riverdale is an American drama series that launched on 26 January 2017. Based on the characters from the Archie Comics, it follows a group of teenagers from the town of Riverdale, including Archie, Betty, Veronica and Jughead, as they become embroiled in mysteries, secrets and dark events. The series combines romance, suspense and criminal intrigue in a modern, darker take on the Archie universe.",
+      "nb_saisons": 8,
+      "nb_episodes": 140
+    },
+    {
+      "id": 30,
+      "nom": "Stranger Things",
+      "réalisateur": "The Duffer Brothers",
+      "date_de_sortie": "15 juillet 2016",
+      "type": "serie",
+      "description": "Stranger Things is a science fiction and horror series launched on Netflix on 15 July 2016. Set in the 1980s, the story follows a group of teenagers who find themselves confronted with supernatural phenomena after one of their friends disappears. They discover a parallel world, the ‘Upside Down’, and battle mysterious creatures and conspiracies. The series is a blend of suspense, adventure and 80s nostalgia.",
+      "nb_saisons": 5,
+      "nb_episodes": 34
+    },
+    {
+      "id": 31,
+      "nom": "Peaky Blinders",
+      "réalisateur": "Steven Knight",
+      "date_de_sortie": "12 septembre 2013",
+      "type": "serie",
+      "description": "Peaky Blinders is a British series launched on 12 September 2013. It follows the Shelby family, led by the charismatic Thomas Shelby, in 1920s Birmingham, England. The Shelbys run a criminal gang, the Peaky Blinders, and are involved in illegal activities, power struggles and violent conflicts, as well as dealing with the social and political tensions of the time. The series is known for its distinctive visual style, modern soundtrack and complex characters.",
+      "nb_saisons": 6,
+      "nb_episodes": 36
+    },
+    {
+      "id": 32,
+      "nom": "American Horror Story",
+      "réalisateur": "Ryan Murphy, Brad Falchuk",
+      "date_de_sortie": "5 octobre 2011",
+      "type": "serie",
+      "description": "American Horror Story is an American anthology series created by Ryan Murphy and Brad Falchuk, launched on 5 October 2011. Each season tells a different story, often macabre and terrifying, with recurring characters and locations. The seasons tackle a variety of themes, such as haunted houses, mental asylums, witches, circuses and vampire stories, with a mix of suspense, mystery and horror. The series is famous for its dark atmosphere, intense acting performances and provocative storytelling.",
+      "nb_saisons": 11,
+      "nb_episodes": 122
+    },
+    {
+      "id": 33,
+      "nom": "Avatar",
+      "réalisateur": "James Cameron",
+      "date_de_sortie": "16 décembre 2009",
+      "type": "film",
+      "description": "Avatar (December 16, 2009) is a science-fiction film directed by James Cameron. It follows Jake Sully, a former marine, who is sent to Pandora to infiltrate the Na'vi via an avatar, but finds himself defending their world against human exploitation. Hailed for its revolutionary visual effects, it left its mark on cinema history."
+    },
+    {
+      "id": 34,
+      "nom": "The Godfather",
+      "réalisateur": "Francis Ford Coppola",
+      "date_de_sortie": "15 mars 1972",
+      "type": "film",
+      "description": "The Godfather, directed by Francis Ford Coppola, was released on March 15, 1972. This cult film tells the story of the Corleone family, a powerful Mafia dynasty, and explores the links between power, loyalty and corruption. Adapted from Mario Puzo's novel, it features unforgettable performances by Marlon Brando and Al Pacino."
+    },
+    {
+      "id": 35,
+      "nom": "Oppenheimer",
+      "réalisateur": "Christopher Nolan",
+      "date_de_sortie": "19 juillet 2023",
+      "type": "film",
+      "description": "Oppenheimer, directed by Christopher Nolan, was released on July 19, 2023. This biopic traces the life of J. Robert Oppenheimer, the physicist at the head of the Manhattan Project, responsible for creating the first atomic bomb. The film explores the moral dilemmas and consequences of this historic event, with a visually and narratively intense approach."
+    },
+    {
+      "id": 36,
+      "nom": "Forrest Gump",
+      "réalisateur": "Robert Zemeckis",
+      "date_de_sortie": "6 juillet 1994",
+      "type": "film",
+      "description": "Forrest Gump, réalisé par Robert Zemeckis, est sorti le 6 juillet 1994. Cette comédie dramatique suit Forrest, un homme au cœur pur mais à l’intellect limité, interprété par Tom Hanks, qui traverse des décennies d’événements marquants de l'histoire américaine, influençant malgré lui le cours des choses. Le film est salué pour son émotion, son humour et ses effets spéciaux innovants."
+    },
+    {
+      "id": 37,
+      "nom": "Back to the Future",
+      "réalisateur": "Robert Zemeckis",
+      "date_de_sortie": "1985",
+      "type": "film",
+      "description": "A science fiction film released in 1985 and directed by Robert Zemeckis. It follows Marty McFly, a teenager who travels back in time in a DeLorean modified into a time machine by Dr Emmett Brown. Marty must ensure that his parents meet to avoid changing the future. The film is famous for its mix of adventure, humour and time travel, and has spawned two sequels."
+    },
+    {
+      "id": 38,
+      "nom": "Edward Scissorhands",
+      "réalisateur": "Tim Burton",
+      "date_de_sortie": "1990",
+      "type": "film",
+      "description": "A fantasy film directed by Tim Burton, released in 1990. It tells the story of Edward, a man created by an inventor who dies before giving him human hands. Edward lives with scissors for hands and, after the death of his creator, is discovered by a woman who takes him into her home. The film explores isolation, acceptance and difference, while offering a moving and visually unique story. Johnny Depp plays the title character."
+    },
+    {
+      "id": 39,
+      "nom": "Harry Potter",
+      "réalisateur": "Chris Columbus (1er film), Alfonso Cuarón, Mike Newell, David Yates",
+      "date_de_sortie": "2001 (1er film)",
+      "type": "film",
+      "description": "Harry Potter is a saga of films based on the books by J.K. Rowling, beginning with Harry Potter and the Philosopher's Stone in 2001. The story follows Harry, a young wizard who discovers that he is famous in the magical world for having survived an attack by Lord Voldemort when he was a baby. He attends Hogwarts School of Witchcraft and Wizardry and befriends Ron Weasley and Hermione Granger. Together they battle the forces of evil, particularly Voldemort, throughout the seven films. The saga is known for its blend of magic, mystery and universal themes such as friendship and courage."
+    },
+    {
+      "id": 40,
+      "nom": "Avengers",
+      "réalisateur": "Joss Whedon (1er film), Anthony et Joe Russo",
+      "date_de_sortie": "2012 (1er film)",
+      "type": "film",
+      "description": "Avengers is a franchise of superhero films from the Marvel Cinematic Universe (MCU), beginning with The Avengers in 2012. The saga brings together several iconic superheroes, including Iron Man, Captain America, Thor, the Hulk, Black Widow and Hawkeye, who join forces to fight global and intergalactic threats. The team evolves over the course of the films, most notably in Avengers: Infinity War (2018) and Avengers: Endgame (2019), where they take on powerful foes, including Thanos, to save the universe. The franchise is famous for its spectacular action scenes and iconic characters."
+    },
+    {
+      "id": 41,
+      "nom": "Jurassic World",
+      "réalisateur": "Colin Trevorrow",
+      "date_de_sortie": "2015",
+      "type": "film",
+      "description": "Jurassic World is a saga of science fiction and adventure films, beginning with Jurassic World in 2015. It is a sequel to the Jurassic Park series. The story takes place on an island where a futuristic theme park, populated by cloned dinosaurs, is open to the public. When the creatures rebel, visitors and staff must fight for survival. The film stars Chris Pratt and Bryce Dallas Howard, and explores the themes of genetics, the dangers of scientific manipulation and coexistence with dinosaurs. There have been several sequels to the saga, including Jurassic World: Fallen Kingdom (2018) and Jurassic World: Dominion (2022)."
+    },
+    {
+      "id": 42,
+      "nom": "The Grinch",
+      "réalisateur": "Ron Howard",
+      "date_de_sortie": "2000",
+      "type": "film",
+      "description": "The Grinch is a Christmas film directed by Ron Howard, released in 2000. It is adapted from the famous book by Dr. Seuss, How the Grinch Stole Christmas! The film tells the story of the Grinch, a grumpy creature who hates Christmas, living alone in a cave on Crumpit Mountain. Determined to steal Christmas from the people of the town of Whoville, he discovers in the course of his plan that the spirit of Christmas is not about presents, but about love and togetherness. Jim Carrey plays the title character in this heartfelt festive comedy."
+    },
+    {
+      "id": 43,
+      "nom": "The Hobbit",
+      "réalisateur": "Peter Jackson",
+      "date_de_sortie": "2012 (1er film)",
+      "type": "film",
+      "description": "The Hobbit is a film trilogy directed by Peter Jackson, adapted from the novel by J.R.R. Tolkien. The first film, The Hobbit: An Unexpected Journey, was released in 2012. The story follows Bilbo Baggins, a hobbit who, against all odds, joins a group of dwarves to recover a treasure guarded by the dragon Smaug. The films explore his adventures across Middle-earth, before the events of The Lord of the Rings. The trilogy also includes The Desolation of Smaug (2013) and The Battle of the Five Armies (2014)."
+    },
+    {
+      "id": 44,
+      "nom": "The Shining",
+      "réalisateur": "Stanley Kubrick",
+      "date_de_sortie": "1980",
+      "type": "film",
+      "description": "The Shining is a psychological horror film directed by Stanley Kubrick, released in 1980. Adapted from the novel by Stephen King, it tells the story of Jack Torrance, a writer in need of inspiration, who accepts a job as a winter porter in an isolated hotel. He leaves with his wife Wendy and his son Danny, who has psychic abilities. As time goes by, Jack is driven mad by the evil forces that haunt the hotel, threatening his family. The film is famous for its tense atmosphere, memorable performances (particularly by Jack Nicholson), and its iconic ‘Here's Johnny!’ scene."
+    },
+    {
+      "id": 45,
+      "nom": "Barbie",
+      "réalisateur": "Greta Gerwig",
+      "date_de_sortie": "2023",
+      "type": "film",
+      "description": "Barbie is a comedy fantasy film directed by Greta Gerwig, released in 2023. The film follows Barbie, played by Margot Robbie, who lives in the perfect world of ‘Barbieland’. When her perfect life is disrupted, she decides to leave for the real world to solve her problems. The film is both a satire and a reflection on gender stereotypes, identity and the place of women in society. It has been praised for its humorous tone and deep themes, while being visually captivating and creative."
+    },
+    {
+      "id": 46,
+      "nom": "Hunger Games",
+      "réalisateur": "Gary Ross (1er film), Francis Lawrence",
+      "date_de_sortie": "2012 (1er film)",
+      "type": "film",
+      "description": "The Hunger Games is a film series based on the novels by Suzanne Collins, which began in 2012. The story follows Katniss Everdeen as she takes part in the ‘Hunger Games’, a competition in which teenagers must fight to the death. The series explores themes of survival, rebellion and the fight against injustice in a dystopian future. It consists of four films."
+    },
+    {
+      "id": 47,
+      "nom": "Beetlejuice",
+      "réalisateur": "Tim Burton",
+      "date_de_sortie": "1988",
+      "type": "film",
+      "description": "Beetlejuice is a fantasy comedy directed by Tim Burton, released in 1988. The film tells the story of Barbara and Adam Maitland, a couple who die in a car accident and find themselves trapped in their house as ghosts. When a new family moves in, they hire Beetlejuice, a wacky and uncontrollable spirit, to help them hunt them down. The film is known for its offbeat humour, gothic aesthetic and Michael Keaton's memorable performance as Beetlejuice."
+    },
+    {
+      "id": 48,
+      "nom": "Charlie and the Chocolate Factory",
+      "réalisateur": "Tim Burton",
+      "date_de_sortie": "2005",
+      "type": "film",
+      "description": "A film in which Charlie, a poor boy, wins a competition to visit Willy Wonka's magic chocolate factory. There he discovers a fantastic world and meets children who behave strangely. The film is adapted from the book by Roald Dahl and directed by Tim Burton."
+    }
+  ],
+  "musics": [
+    {
+      "id": 49,
+      "nom": "KMT",
+      "artiste": "Gazo",
+      "date_de_sortie": "2021",
+      "type": "album",
+      "cover": "gazo"
+    },
+    {
+      "id": 50,
+      "nom": "Starboy",
+      "artiste": "The Weeknd",
+      "date_de_sortie": "2016",
+      "type": "album",
+      "cover": "starboy"
+    },
+    {
+      "id": 51,
+      "nom": "Graduation",
+      "artiste": "Kanye West's",
+      "type": "album",
+      "date_de_sortie": "2007",
+      "cover": "graduation"
+    },
+    {
+      "id": 52,
+      "nom": "Jeannine",
+      "artiste": "Lomepale",
+      "date_de_sortie": "2018",
+      "type": "album",
+      "cover": "jeannine"
+    },
+    {
+      "id": 53,
+      "nom": "Melo",
+      "artiste": "Tiakola",
+      "date_de_sortie": "2023",
+      "type": "album",
+      "cover": "melo"
+    },
+    {
+      "id": 54,
+      "nom": "True Blue",
+      "artiste": "Madonna",
+      "date_de_sortie": "1986",
+      "type": "album",
+      "cover": "trueblue"
+    },
+    {
+      "id": 55,
+      "nom": "The Dark Side of the Moon",
+      "artiste": "Pink Floyd",
+      "date_de_sortie": "1973",
+      "type": "album",
+      "cover": "pinkfloyd"
+    },
+    {
+      "id": 56,
+      "nom": "Thank U, Next",
+      "artiste": "Ariana Grande",
+      "type": "album",
+      "date_de_sortie": "2019",
+      "cover": "ariana"
+    },
+    {
+      "id": 57,
+      "nom": "Rodeo",
+      "artiste": "Travis Scott",
+      "date_de_sortie": "2015",
+      "type": "album",
+      "cover": "rodeo"
+    },
+    {
+      "id": 58,
+      "nom": "Nevermind",
+      "artiste": "Nirvana",
+      "date_de_sortie": "1991",
+      "type": "album",
+      "cover": "nevermind"
+    },
+    {
+      "id": 59,
+      "nom": "SOS",
+      "artiste": "SZA",
+      "date_de_sortie": "2022",
+      "type": "album",
+      "cover": "sos"
+    }
+  ]
+}

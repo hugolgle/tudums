@@ -1,0 +1,12 @@
+#root {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100vw;
+  user-select: none;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
