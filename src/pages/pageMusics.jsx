@@ -8,12 +8,15 @@ export default function PageMusics() {
     <>
       <Header />
       <section className="pt-24">
-        <div className="flex flex-col gap-2 justify-center items-center">
+        <h1 className="font-logo text-black animate__animated animate__zoomIn animate__faster">
+          Musics
+        </h1>
+        <div className="flex flex-col gap-2 h-full justify-center items-center">
           {description.musics.map((item, index) => (
             <div
               key={index}
               onClick={() => navigate(`${item.id}`)}
-              className="p-2 rounded-xl w-72 bg-green animate__animated animate__fadeInUp"
+              className="p-2 rounded-xl w-72 bg-red animate__animated animate__fadeInUp"
             >
               <h3>{item.nom}</h3>
             </div>

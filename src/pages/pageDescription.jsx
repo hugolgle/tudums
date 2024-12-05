@@ -8,19 +8,19 @@ export default function PageDescription() {
       <Header />
       <section className="flex flex-col gap-2">
         <div
-          className="p-2 bg-red rounded-xl animate__animated animate__zoomIn animate__faster"
+          className="p-2 w-52 bg-red rounded-xl animate__animated animate__zoomIn animate__faster"
           onClick={() => navigate("/seriesMovies")}
         >
           <h2>Series & Movies</h2>
         </div>
         <div
-          className="p-2 bg-purple rounded-xl animate__animated animate__zoomIn animate__faster"
-          onClick={() => navigate("/anime")}
+          className="p-2 bg-red rounded-xl animate__animated animate__zoomIn animate__faster"
+          onClick={() => navigate("/cartoon")}
         >
-          <h2>Anime</h2>
+          <h2>Cartoon</h2>
         </div>
         <div
-          className="p-2 bg-green rounded-xl animate__animated animate__zoomIn animate__faster"
+          className="p-2 bg-red rounded-xl animate__animated animate__zoomIn animate__faster"
           onClick={() => navigate("/musics")}
         >
           <h2>Musics</h2>

@@ -13,13 +13,13 @@ export default function PageMusicsById() {
       <Header />
       <section className="p-4">
         {foundMusics ? (
-          <div className="max-w-xl mx-auto bg-white shadow-lg rounded-lg overflow-hidden animate__animated animate__zoomIn animate__faster">
+          <div className="max-w-xl mx-auto overflow-hidden animate__animated animate__zoomIn animate__faster">
             <div className="p-6 space-y-4">
-              <h1 className="text-2xl font-bold text-gray-800 text-center">
+              <h1 className="text-2xl font-bold font-logo text-gray-800 text-center">
                 {foundMusics.nom}
               </h1>
               <img
-                src={`../../public/cover/${foundMusics.cover}.jpeg`}
+                src={`/cover/${foundMusics.cover}.jpg`}
                 alt={foundMusics.nom}
                 className="rounded-xl mx-auto w-full max-h-80 object-cover"
               />
@@ -29,8 +29,7 @@ export default function PageMusicsById() {
               </p>
               <div className="text-center">
                 <p className="text-gray-600">
-                  <span>Released in </span>
-                  {foundMusics.date_de_sortie}
+                  <span>Released in </span> {foundMusics.date_de_sortie}
                 </p>
               </div>
             </div>

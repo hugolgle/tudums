@@ -8,7 +8,10 @@ export default function PageSerieFilm() {
     <>
       <Header />
       <section className="pt-24">
-        <div className="flex flex-col gap-2 justify-center items-center">
+        <h1 className="font-logo text-black animate__animated animate__zoomIn animate__faster">
+          Series & Movies
+        </h1>
+        <div className="flex flex-col gap-2 h-full justify-center items-center">
           {description.serie_film.map((item, index) => (
             <div
               key={index}

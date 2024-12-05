@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
-import mascote from "../../public/Mascotte.png";
-import brandboard from "../../public/BrandBoard.png";
+import mascote from "/Mascotte.png";
+import brandboard from "/BrandBoard.png";
 
 export default function Home() {
   return (
